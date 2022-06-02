@@ -5,4 +5,4 @@ def main(array):
     Convert the list of numeric values to a one-dimensional NumPy array.
     """
     
-    return
+    return np.array(array)
